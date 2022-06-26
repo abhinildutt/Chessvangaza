@@ -1,0 +1,9 @@
+.chessboard {
+    display : flex;
+    flex-wrap: wrap;
+    background-color: rgb(40, 122, 79);
+    width: 49.13vw;
+    margin-left: 26vw;
+    margin-top: 5.4vh;
+
+}
