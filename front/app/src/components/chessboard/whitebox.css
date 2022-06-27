@@ -1,13 +1,13 @@
 .whitebox {
-    background: rgb(241, 238, 238);
+    background: rgb(203, 172, 70);
     border: 1px solid black;
     width: 6vw;
     height: 11vh;
 }
-.whiteboxfirst {
-    background: rgb(192, 188, 188);
-    border: 1px solid black;
-    width: 6vw;
-    height: 10vh;
-    float: left;
+
+.wimg {
+    margin-left: .35vw;
+    width: 5.2vw;
+    height: 10.2vh;
+    margin-top: .4vh;
 }

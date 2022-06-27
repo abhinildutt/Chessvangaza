@@ -1,0 +1,15 @@
+.blackbox {
+    background: rgb(120, 86, 5);
+    border: 1px solid black;
+    width: 6vw;
+    height: 11vh;
+    overflow: auto;
+    align-items: center;
+}
+
+.bimg {
+    margin-left: .35vw;
+    width: 5.2vw;
+    height: 10.2vh;
+    margin-top: .4vh;
+}
